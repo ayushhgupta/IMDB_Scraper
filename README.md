@@ -1,4 +1,4 @@
-# IMDB Scraper
+# IMDb Web Scraper
 
 The task involves developing a website data extracting script to extract information about the top 20 movies listed under each genre on IMDb, as well as their latest 10 user reviews. The goal is to gather comprehensive data for a broad analysis of movie trends and reception across various genres.
 
